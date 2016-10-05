@@ -16,7 +16,12 @@ Copy&Paste the text into your Blacklist and click on save.
 
 Simply delete everythig you added from this list in your list.
 
+<br>
+
 These instructions are <b>not made by AVM</b>.
+
+<br>
+<br>
 
 And just to make sure<br>
 (aka I don't know what should go wrong with blocking some websites out of your network but someone will probably mess something up):<br>
