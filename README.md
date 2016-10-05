@@ -1,7 +1,7 @@
 # frtzblcklst
 My personal list of blocked domains on my FRITZ!Box 7490
 
-It was created to block many mobile/smartphone In-App ads and Skype ads.
+It was created to block many mobile/smartphone In-App ads, annoying website ads and Skype ads.
 
 <h4>My Skype Home dosn't work anymore?</h4>
 
